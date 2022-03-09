@@ -8,6 +8,8 @@ More than 180,000 images
 
 ![plot](pictures/XRay.png)
 
+We worked with DenseNet121 Embeddings
+
 ![plot](pictures/pathologies.png)
 
 ## Results
