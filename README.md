@@ -10,6 +10,9 @@ More than 180,000 images
 
 ![plot](pictures/XRay.png)
 
+Uncertainties in the data were treated manually by resorting to pathologies associations:
+![plot](pictures/associations.png)
+
 We worked with DenseNet121 Embeddings
 ![plot](pictures/embeddings.png)
 
