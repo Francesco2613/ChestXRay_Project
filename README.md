@@ -6,11 +6,14 @@ More than 180,000 images
 
 14 pathologies
 
+![plot](pictures/pathologies.png)
+
 ![plot](pictures/XRay.png)
 
 We worked with DenseNet121 Embeddings
+![plot](pictures/embeddings.png)
 
-![plot](pictures/pathologies.png)
+
 
 ## Results
 ### Random Forest
