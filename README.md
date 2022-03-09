@@ -14,4 +14,4 @@ More than 180,000 images
 ### Random Forest
 ![plot](pictures/lung_opacity.png)
 ### Logistic Regression
-![plot](pictures/effusion.png)
+![plot](pictures/effusion 1.jpg)
